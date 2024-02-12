@@ -1,6 +1,6 @@
 $.i18n().load( {
       'en': {
-        'page.title': 'Sparnatural interface for RiC-O 1.0 beta',
+        'page.title': 'Sparnatural interface for RiC-O 1.0',
         'menu.sparnatural': 'Sparnatural',
         'menu.lang': 'Lang.',
         'menu.github': 'Github',
@@ -28,7 +28,7 @@ $.i18n().load( {
         'example.B.4.title': 'Parisian streets in which notaries practiced from the 15th to the 20th century',
       },
       'fr': {
-        'page.title': 'Démonstrateur Sparnatural RiC-O 1.0 beta',
+        'page.title': 'Démonstrateur Sparnatural RiC-O 1.0',
         'menu.sparnatural': 'Sparnatural',
         'menu.lang': 'Lang.',
         'menu.github': 'Github',
