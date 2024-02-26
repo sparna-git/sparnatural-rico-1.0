@@ -322,7 +322,7 @@
                                            )
                              ] ;
                  rdfs:range :Archives ;
-                 <http://data.sparna.fr/ontologies/sparnatural-config-core#sparqlString> "^<https://www.ica.org/standards/RiC/ontology#hasOrganicProvenance>" ;
+                 <http://data.sparna.fr/ontologies/sparnatural-config-core#sparqlString> "<https://www.ica.org/standards/RiC/ontology#isOrganicProvenanceOf>" ;
                  <http://data.sparna.fr/ontologies/sparnatural-config-core#tooltip> "Links an agent that produces, accumulates, or manages an archival resource to this resource."@en ,
                                                                                     "Relie un agent qui produit, accumule ou gère une ressource archivistique à cette ressource."@fr ;
                  <http://data.sparna.fr/ontologies/sparnatural-config-datasources#datasource> :list_rdfslabel_count_langfr ;
